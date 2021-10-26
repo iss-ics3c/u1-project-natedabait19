@@ -1,0 +1,60 @@
+body{
+    background-color:  black;
+    display: grid;
+    place-content: center;
+    height: 95vh;
+   
+       
+    
+    
+}
+
+
+
+#h1 {
+    
+    color: royalblue;
+    font-size: 64px;
+    font-family: fantasy;
+    text-align: center;
+       
+     
+       
+     
+}
+
+
+
+
+#c{
+    color: royalblue;
+    font-family: fantasy
+    
+}
+
+
+
+#m{
+    
+    
+    color: whitesmoke;
+    font-size: 100px
+}
+
+
+
+#pic{
+  height: 300px
+      
+    
+   
+}
+
+   
+   
+    
+    
+
+
+
+
